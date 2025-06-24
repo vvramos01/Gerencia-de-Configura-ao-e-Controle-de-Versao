@@ -8,5 +8,4 @@
 - [06-Papel-URSS](https://github.com/vvramos01/Gerencia-de-Configura-ao-e-Controle-de-Versao/tree/06-Papel-URSS)
 - [07-Hiroshima-Nagasaki](https://github.com/vvramos01/Gerencia-de-Configura-ao-e-Controle-de-Versao/tree/07-Hiroshima-Nagasaki)
 - [08-Consequencias-Impacto](https://github.com/vvramos01/Gerencia-de-Configura-ao-e-Controle-de-Versao/tree/08-Consequencias-Impacto)
-- [Historia-Segunda-Guerra](https://github.com/vvramos01/Gerencia-de-Configura-ao-e-Controle-de-Versao/tree/Historia-Segunda-Guerra)
 
